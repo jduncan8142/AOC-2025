@@ -21,3 +21,7 @@ AOC-2025/
 ├── pyproject.toml          # Project configuration (modern)
 └── uv.lock                 # UV package manager lock file
 ```
+
+## Leaderboard
+
+Join my leaderboard with the code 1932502-c07a4c92.
