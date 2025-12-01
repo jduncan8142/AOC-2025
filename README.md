@@ -4,7 +4,7 @@ Advent of Code 2025
 
 ## Overview
 
-This repo is for the Advent of Code 2025.
+This repo is for the [Advent of Code 2025](https://adventofcode.com/).
 
 ## Project Structure
 
@@ -25,3 +25,5 @@ AOC-2025/
 ## Leaderboard
 
 Join my leaderboard with the code 1932502-c07a4c92.
+
+[Read-only Leaderboard link](https://adventofcode.com/2025/leaderboard/private/view/1932502?view_key=f758a0a9)
