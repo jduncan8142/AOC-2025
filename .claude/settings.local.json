@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python puzzles/day9.py:*)",
+      "Bash(python puzzles/day9_part2.py:*)",
+      "Bash(python puzzles/day10.py:*)",
+      "Bash(python puzzles/day11.py:*)",
+      "Bash(python:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
